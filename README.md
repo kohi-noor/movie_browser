@@ -73,3 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### modifying for the second time
 
 This readme file is modified for the second time, the first modification was deleted
+
+This is the new line added from the local computer 
